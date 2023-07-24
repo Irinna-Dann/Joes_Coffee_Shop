@@ -1,0 +1,99 @@
+body {
+    background-image: url(./image/1647898675_1-gamerwall-pro-p-listya-fon-krasivie-1.jpeg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: left;
+    font-style: italic;
+    color: rgb(0, 132, 40);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.menu {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    background-color:rgb(249, 255, 249);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 20px;  
+}
+
+.item p {
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.team {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.coffee {
+    text-align: left;
+    width: 55%
+}
+
+.price {
+    text-align: right;
+    width: 15%
+}
+
+.non-coffee, .extra {
+    text-align: left;
+    width: 75%;
+}
+
+.price-1 {
+    text-align: right;
+    width: 25%;
+}
+
+.frame {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: -5%;
+    border-radius: 20px;
+}
+
+.frame div {
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+/* FOOTER */
+
+footer {
+    size: 14px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: rgb(0, 132, 40);
+}
